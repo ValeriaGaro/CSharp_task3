@@ -1,0 +1,7 @@
+C:\Users\valer\source\repos\Lesson 3\Lesson 3\bin\Debug\Lesson 3.exe.config
+C:\Users\valer\source\repos\Lesson 3\Lesson 3\bin\Debug\Lesson 3.exe
+C:\Users\valer\source\repos\Lesson 3\Lesson 3\bin\Debug\Lesson 3.pdb
+C:\Users\valer\source\repos\Lesson 3\Lesson 3\obj\Debug\Lesson 3.csprojAssemblyReference.cache
+C:\Users\valer\source\repos\Lesson 3\Lesson 3\obj\Debug\Lesson 3.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\Lesson 3\Lesson 3\obj\Debug\Lesson 3.exe
+C:\Users\valer\source\repos\Lesson 3\Lesson 3\obj\Debug\Lesson 3.pdb
